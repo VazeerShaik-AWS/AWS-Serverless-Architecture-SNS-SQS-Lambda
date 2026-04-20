@@ -29,7 +29,7 @@ Designed a reliable and scalable serverless messaging system on AWS using SNS, S
 * Amazon SNS
 * Amazon SQS
 * AWS Lambda
-* Amazon S3 (for storage, if applicable)
+* Amazon S3 
 
 ## Outcome / Business Impact
 
