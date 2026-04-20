@@ -41,6 +41,7 @@ Designed a reliable and scalable serverless messaging system on AWS using SNS, S
 ## Author
 
 **Vazeer Shaik**
+
 AWS Cloud Engineer
 
 ---
