@@ -54,7 +54,7 @@ Production-grade async processing
 
 
 
-## 👨‍💻 Author
+## Author
 
 **Vazeer Shaik**
 
