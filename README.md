@@ -1,4 +1,4 @@
-# Serverless Messaging using SNS, SQS & Lambda
+# Serverless Architecture using SNS, SQS & Lambda
 
 ## Overview
 
